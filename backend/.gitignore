@@ -1,0 +1,36 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Flask instance folder
+instance/
+
+# Flask .env file containing sensitive data
+.env
+
+# VSCode settings
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Unit test coverage reports
+coverage/
+
+# PyCharm project files
+.idea/
+
+# Python egg and wheel files
+*.egg
+*.egg-info
+dist/
+build/
